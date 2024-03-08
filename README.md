@@ -4,7 +4,7 @@ This Android app demonstrates a simple image slider functionality using ViewFlip
 ## Screenshots
 - Image Slider
   
-<img src="images/slider.png" alt="slider" width="150"/>
+<img src="images/slider.png" alt="slider" width="150">
 
 ## Features
 - Image sliding functionality using ViewFlipper.
