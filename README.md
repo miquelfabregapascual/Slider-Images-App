@@ -1,4 +1,4 @@
-# Slider-Images-App
+# Slider-Images-App - By Miquel
 This Android app demonstrates a simple image slider functionality using ViewFlipper and Picasso library. It allows users to navigate through a collection of images fetched from URLs.
 
 ## Screenshots
